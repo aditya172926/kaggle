@@ -7,4 +7,6 @@ My Kaggle profile: www.kaggle.com/aditya26sg
 
 You can also click and view the Interactive plots and complete output which is not displayed here in GitHub:
 
-1. <a href='https://nbviewer.jupyter.org/github/aditya172926/kaggle/blob/master/california-house-price-prediction.ipynb' target='blank'>California House Pricing</a>
+<a href='https://nbviewer.jupyter.org/github/aditya172926/kaggle/blob/master/california-house-price-prediction.ipynb' target='blank'>California House Pricing</a>
+<a href='https://nbviewer.jupyter.org/github/aditya172926/kaggle/blob/master/predict-test-scores.ipynb' target='blank'>Predict Test Scores</a>
+<a href='https://nbviewer.jupyter.org/github/aditya172926/kaggle/blob/master/water-potability.ipynb' target='blank'>Water Potability Prediction</a>
