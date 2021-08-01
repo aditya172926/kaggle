@@ -5,9 +5,18 @@ I highly recommend to visit my Kaggle profile and check out the notebooks with a
 
 <b>My Kaggle profile:</b> www.kaggle.com/aditya26sg
 
+# View on Kaggle
+<a href='https://www.kaggle.com/aditya26sg/california-house-price-prediction' target='blank'>California House Pricing</a><br>
+<a href='https://www.kaggle.com/aditya26sg/predict-test-scores' target='blank'>Predict Test Scores</a><br>
+<a href='https://www.kaggle.com/aditya26sg/water-potability' target='blank'>Water Potability Prediction</a><br>
+<a href='https://www.kaggle.com/aditya26sg/spacemissions' target='blank'>Space Missions Visualization</a><br>
+
+
 # View on nbviewer
 You can also click and view the Interactive plots and complete output which is not displayed here in GitHub:
 
 <a href='https://nbviewer.jupyter.org/github/aditya172926/kaggle/blob/master/california-house-price-prediction.ipynb' target='blank'>California House Pricing</a><br>
 <a href='https://nbviewer.jupyter.org/github/aditya172926/kaggle/blob/master/predict-test-scores.ipynb' target='blank'>Predict Test Scores</a><br>
 <a href='https://nbviewer.jupyter.org/github/aditya172926/kaggle/blob/master/water-potability.ipynb' target='blank'>Water Potability Prediction</a><br>
+<a href='https://nbviewer.jupyter.org/github/aditya172926/kaggle/blob/master/spacemissions.ipynb' target='blank'>Space Missions Visualization</a><br>
+
